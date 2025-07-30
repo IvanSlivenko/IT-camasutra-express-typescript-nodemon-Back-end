@@ -8,10 +8,52 @@ yarn add express  - інсталюємо express
 yarn add nodemon --dev  - інсталюємо нодемонітор  nodemon
 
 
+yarn add typescript ts-node @types/express @types/node --dev
+
+yarn tsc -- init ............... Created a new tsconfig.json with:
+
+yarn tsc -w  запуск watch
+
+yarn nodemon dist/index.js - запуск  nodemon
+
+
+yarn - відновлює node_modules  
+
+........................................................ scripts from package.json
+
+yarn watch
+yarn dev
+
+.......................................................
+
+
+
+
+
+
+ 
+
+
 ///////////////////////////////////////////////////////////////////////////////
 yarn nodemon
+yarn nodemon -- inspect
 
 //////////////////////////////////////////////////////////////////////////////
 -------------------------------------------------------------------------------
 00 : 11 : 32
+
+
+
+---------------------------------------------------------------------------------- Lesson 11
+
+https://youtu.be/p5gZA3-QoCY?list=PLcvhF2Wqh7DP4tZ851CauQ8GqgqlCocjk
+
+heroku
+
+email : ivan8822@ukr.net
+password: iv07092006slivenko
+
+
+----------------------------------------------------------------------------------
+00 : 18 : 42
 
